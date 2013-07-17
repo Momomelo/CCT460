@@ -79,7 +79,7 @@
 					}
 				?>
 				<button id="heartContainer">
-					<div id="heart"></div>
+					<div id="heart"> <img width="100px" src="http://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg"></div>
 				</button>
 			</form>
 		</section>
