@@ -144,7 +144,7 @@ button.active .save{
 	top: 45%;
 	left:50%;
 	margin-left: -52px;
-	background: #FFF;
+/*	background: #FFF; */
 	width: 105px;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
@@ -155,7 +155,8 @@ button.active .save{
     position: relative;
     width: 100px;
     height: 90px;
-}
+
+/*}
 #heart:before,
 #heart:after {
     position: absolute;
@@ -191,7 +192,9 @@ button.active .save{
          -o-transform-origin: 100% 100%;
             transform-origin :100% 100%;
 }
-			
+
+*/
+
 /* Menu navigation */
 .menu {
 	background: #47a3da;
